@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "ホタルノヒカリ",
+  "base_artist": "Ikimonogakari",
+  "createdAt": "2026-02-14T14:03:32.439522Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ホタルノヒカリ",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/01_ホタルノヒカリ_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ホタルノヒカリ",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/02_ホタルノヒカリ_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ホタルノヒカリ(第103話〜第128話)",
+      "artist": "かな子",
+      "has_synced": true,
+      "path": "select/03_ホタルノヒカリ(第103話〜第128話)_かな子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ホタルノヒカリ(第103話〜第128話)",
+      "artist": "Kanako",
+      "has_synced": true,
+      "path": "select/04_ホタルノヒカリ(第103話〜第128話)_Kanako.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ホタルノヒカリ",
+      "artist": "ANIME PROJECT",
+      "has_synced": false,
+      "path": "select/05_ホタルノヒカリ_ANIME_PROJECT.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ホタルノヒカリ",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/06_ホタルノヒカリ_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ホタルノヒカリ - 2021 Remastered",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/07_ホタルノヒカリ_-_2021_Remastered_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ホタルノヒカリ - Hotarunohikari",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/08_ホタルノヒカリ_-_Hotarunohikari_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "いきものがかり 『ホタルノヒカリ』Music Video",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/09_いきものがかり_『ホタルノヒカリ』Music_Video_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ホタルノヒカリ-instrumental-",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/10_ホタルノヒカリ-instrumental-_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ホタルノヒカリ (2021 Remastered) - Hotarunohikari (2021 Remastered)",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/11_ホタルノヒカリ_(2021_Remastered)_-_Hotarunohikari_(2021_Remastered)_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ホタルノヒカリ -instrumental-",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/12_ホタルノヒカリ_-instrumental-_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ホタルノヒカリ (2021 Remastered)",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/13_ホタルノヒカリ_(2021_Remastered)_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ホタルノヒカリ",
+      "artist": "Ikimono Gakari",
+      "has_synced": true,
+      "path": "select/14_ホタルノヒカリ_Ikimono_Gakari.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ホタルノヒカリ",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/15_ホタルノヒカリ_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ホタルノヒカリ (2021 Remastered)",
+      "artist": "生物股长 (いきものがかり)",
+      "has_synced": true,
+      "path": "select/16_ホタルノヒカリ_(2021_Remastered)_生物股长_(いきものがかり).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ホタルノヒカリ(萤之光)",
+      "artist": "生物股长",
+      "has_synced": true,
+      "path": "select/17_ホタルノヒカリ(萤之光)_生物股长.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホタルノヒカリ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_01_ホタルノヒカリ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ホタルノヒカリ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_02_ホタルノヒカリ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ホタルノヒカリ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_03_ホタルノヒカリ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ホタルノヒカリ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_04_ホタルノヒカリ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ホタルノヒカリ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_05_ホタルノヒカリ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ホタルノヒカリ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_06_ホタルノヒカリ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ホタルノヒカリ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_07_ホタルノヒカリ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ホタルノヒカリ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_08_ホタルノヒカリ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ホタルノヒカリ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_09_ホタルノヒカリ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ホタルノヒカリ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_10_ホタルノヒカリ_いきものがかり.txt"
+    }
+  ]
+}
